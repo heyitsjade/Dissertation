@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313204014882",
+    "project_id": "dissertation1-ebcb9",
+    "storage_bucket": "dissertation1-ebcb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313204014882:android:e491442917e9a505786f7b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDImYqRx_TwjpDMmucNpyhw4b0KPQjgwSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
